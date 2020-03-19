@@ -15,3 +15,5 @@ If you want to reduce number of instances
  Set your own rules of iterating
 - Iterator.js
 
+## Observer Pattern
+- Observer.js
