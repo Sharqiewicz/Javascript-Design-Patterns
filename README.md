@@ -10,3 +10,8 @@ If you want to reduce number of instances
 
 ## Strategy Pattern
 - Strategy.js
+
+## Iterator Pattern
+ Set your own rules of iterating
+- Iterator.js
+
