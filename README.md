@@ -17,3 +17,6 @@ If you want to reduce number of instances
 
 ## Observer Pattern
 - Observer.js
+
+## Proxy Pattern
+- Proxy.js

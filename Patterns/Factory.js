@@ -18,13 +18,10 @@ function PokemonFactory() {
         switch (type) {
             case 1:
                 return new ElectricPokemon(name);
-                break;
             case 2:
                 return new GrassPokemon(name);
-                break;
             case 3:
                 return new WaterPokemon(name);
-                break;
         }
     }
 }
