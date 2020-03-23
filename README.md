@@ -28,3 +28,4 @@ Limit API requests
 ## Mediator Pattern
 The Mediator pattern provides central authority over a group of objects by controlling how these objects interact with each other
 - Mediator.js
+
