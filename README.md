@@ -35,3 +35,10 @@ The Mediator pattern provides central authority over a group of objects by contr
 ## Null Object Pattern
 This pattern is all about handling the null keyword in a way that removes all of those nasty if (object == null) checks from your code. It also makes handling default values for null objects a breeze.
 - NullObject.js
+
+## Builder Pattern
+- Builder.js
+
+## Facade Pattern
+clean requests
+- Facade.js
