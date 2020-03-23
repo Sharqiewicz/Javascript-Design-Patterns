@@ -1,5 +1,5 @@
 # Patterns
-Thanks to: DevSage
+Thanks to: DevSage && Thanks to: Web Dev Simplified
 
 ## Factory Pattern
 Factory Pattern is a creational design pattern that uses factory methods to create objects
@@ -29,3 +29,9 @@ Limit API requests
 The Mediator pattern provides central authority over a group of objects by controlling how these objects interact with each other
 - Mediator.js
 
+## Command Pattern
+- Command.js
+
+## Null Object Pattern
+This pattern is all about handling the null keyword in a way that removes all of those nasty if (object == null) checks from your code. It also makes handling default values for null objects a breeze.
+- NullObject.js
